@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@akarui/aoi.music": "github:akaruidevelopment/music#main",
+    "aoi.js": "^5.1.2",
+    "dbdjs.mongo": "^1.0.1",
+    "express": "^4.17.2",
+    "ffmpeg-static": "^4.4.1",
+    "mongoose": "^5.13.13",
+    "opusscript": "^0.0.8"
+  }
+}
